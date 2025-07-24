@@ -31,6 +31,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/brunnoviannaa/brunnoviannaa/output/github-contribution-grid-snake.svg">
 </picture>
 
-![Snake animation](https://github.com/brunnoviannaa/brunnoviannaa/blob/output/github-contribution-grid-snake-dark.svg)
-
 </div>
