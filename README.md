@@ -28,13 +28,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 📊 Estatísticas
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=BrunnoViannaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunnoViannaa&layout=compact&theme=dark" />
-</p>
-
 ### 🔗 Redes
 
 <p align="center">
