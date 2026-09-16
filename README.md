@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Me chamo Brunno Vianna 👋</h1>
 
 <p align="center">
-  Formado em Análise e Desenvolvimento de Sistemas, sempre em busca de novos conhecimentos em programação.
+  Formado em Análise e Desenvolvimento de Sistemas, sempre em busca de novos conhecimentos na tecnologia.
 </p>
 
 <p align="center">
